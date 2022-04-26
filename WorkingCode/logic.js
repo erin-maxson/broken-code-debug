@@ -27,7 +27,6 @@ $("#textGreen").on("click", function() {
 	$("#funText").css("color", "green")
 })
 
-
 // When the boxGrow button is clicked... 
 $("#boxGrow").on("click", function() {
 	// Increase the size of the box.
